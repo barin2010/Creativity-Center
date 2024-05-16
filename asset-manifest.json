@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/barin2010.github.io/Creativity-Center/static/css/main.7acaea2f.css",
+    "main.css": "/barin2010.github.io/Creativity-Center/static/css/main.93a3a1fa.css",
     "main.js": "/barin2010.github.io/Creativity-Center/static/js/main.4e763762.js",
+    "static/media/Inter-Regular.woff": "/barin2010.github.io/Creativity-Center/static/media/Inter-Regular.0d6f7c99e635f1fec4c9.woff",
+    "static/media/Inter-Regular.woff2": "/barin2010.github.io/Creativity-Center/static/media/Inter-Regular.bd097ceff83f90802a12.woff2",
+    "static/media/Oswald-Bold.woff": "/barin2010.github.io/Creativity-Center/static/media/Oswald-Bold.6f8a79584e196ebbb3e4.woff",
+    "static/media/Oswald-Light.woff": "/barin2010.github.io/Creativity-Center/static/media/Oswald-Light.74386c69a32d4334eb79.woff",
+    "static/media/Gilroy-Medium.woff": "/barin2010.github.io/Creativity-Center/static/media/Gilroy-Medium.2bc7f5d7ea77ee1bddb3.woff",
+    "static/media/Gilroy-Bold.woff": "/barin2010.github.io/Creativity-Center/static/media/Gilroy-Bold.5fb38b9fa452b5814397.woff",
+    "static/media/Gilroy-SemiBold.woff": "/barin2010.github.io/Creativity-Center/static/media/Gilroy-SemiBold.e38937dbf8202c144802.woff",
+    "static/media/Gilroy-Regular.woff": "/barin2010.github.io/Creativity-Center/static/media/Gilroy-Regular.31d54a4b841c0e438f13.woff",
     "index.html": "/barin2010.github.io/Creativity-Center/index.html",
-    "main.7acaea2f.css.map": "/barin2010.github.io/Creativity-Center/static/css/main.7acaea2f.css.map",
+    "main.93a3a1fa.css.map": "/barin2010.github.io/Creativity-Center/static/css/main.93a3a1fa.css.map",
     "main.4e763762.js.map": "/barin2010.github.io/Creativity-Center/static/js/main.4e763762.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
+    "static/css/main.93a3a1fa.css",
     "static/js/main.4e763762.js"
   ]
 }
