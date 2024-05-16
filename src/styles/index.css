@@ -1,0 +1,75 @@
+@import './reset.css';
+
+/* 400 */
+@font-face {
+  font-family: 'Gilroy';
+  src: url('./fonts/Gilroy-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 500 */
+@font-face {
+  font-family: 'Gilroy';
+  src: url('./fonts//Gilroy-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+/* 600 */
+@font-face {
+  font-family: 'Gilroy';
+  src: url('./fonts/Gilroy-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+/* 700 */
+@font-face {
+  font-family: 'Gilroy';
+  src: url('./fonts/Gilroy-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 400 */
+@font-face {
+  font-family: 'Inter';
+  src: url('./fonts/Inter-Regular.woff') format('woff'),
+    url('./fonts/Inter-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+/* 300 */
+@font-face {
+  font-family: 'Oswald';
+  src: url('./fonts/Oswald-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+/* 700 */
+@font-face {
+  font-family: 'Oswald';
+  src: url('./fonts/Oswald-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+:root {
+  --primary-font-color-02061D: #02061d;
+  --yello-EBD96B: #ebd96b;
+}
+
+body {
+  font-family: 'Gilroy', sans-serif;
+  color: var(--primary-font-color-02061D);
+}
+.container {
+  max-width: 1920px;
+  margin: 0 auto;
+  padding: 0 347px;
+}
