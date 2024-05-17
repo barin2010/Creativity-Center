@@ -1,0 +1,49 @@
+.servisesWrapper {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 110px;
+}
+.servisesTitle {
+  font-size: 65px;
+  margin-bottom: 32px;
+}
+.servisesMore {
+  display: flex;
+  gap: 22.37px;
+}
+.servisesBox {
+  position: relative;
+  justify-content: left;
+}
+.servisesImg {
+  width: 601px;
+  margin-bottom: 22px;
+  border-radius: 10px;
+}
+.title {
+  width: 223px;
+  background-color: var(--button-color-0082FE);
+  padding: 31px 0;
+  padding-left: 35px;
+  border-top-right-radius: 45px;
+  border-bottom-right-radius: 45px;
+  text-align: left;
+  position: absolute;
+  bottom: 100px;
+}
+.text {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.08em;
+  color: var(--primary-white-FFFFFF);
+}
+.btn {
+  padding: 18px 44px;
+  background-color: var(--button-poster-CC0EF1);
+  border-radius: 10px;
+  font-size: 16px;
+  color: var(--primary-white-FFFFFF);
+  display: flex;
+  cursor: pointer;
+}

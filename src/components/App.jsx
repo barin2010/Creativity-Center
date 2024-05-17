@@ -1,3 +1,9 @@
+import Home from 'pages/Home';
+
 export const App = () => {
-  return <div>React homework </div>;
+  return (
+    <div>
+      <Home />
+    </div>
+  );
 };

@@ -1,0 +1,130 @@
+.header {
+  width: 100%;
+}
+.headerWrappper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 1920px;
+  margin: 0 auto;
+}
+.box_1 {
+  display: flex;
+  padding: 13px 155px 14px 199px;
+  max-width: 1920px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.lettersList {
+  display: flex;
+  flex-direction: column;
+  width: 149px;
+  position: relative;
+  padding-top: 50px;
+}
+.lettersItems {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%);
+}
+.itemsC_1 {
+  width: 27px;
+  height: 31px;
+  left: 0px;
+}
+.itemsC_2 {
+  width: 16px;
+  height: 18px;
+  left: 6px;
+}
+.itemsT {
+  width: 20px;
+  height: 31px;
+  left: 21px;
+}
+.itemsR {
+  width: 25px;
+  height: 31px;
+  left: 36px;
+}
+.itemsO_1 {
+  width: 31px;
+  height: 31px;
+  left: 44px;
+}
+.itemsG {
+  left: 69px;
+  width: 20px;
+  height: 31px;
+}
+.itemsI {
+  left: 80px;
+  width: 19px;
+  height: 31px;
+}
+.itemsN {
+  width: 19px;
+  height: 31px;
+  left: 103.7px;
+}
+.itemsO_2 {
+  left: 114px;
+  width: 31px;
+  height: 31px;
+}
+.navigation {
+  align-items: center;
+  justify-content: center;
+}
+.navigationList {
+  background-color: var(--primary-font-color-02061D);
+  display: flex;
+  gap: 35px;
+  padding: 19px 0;
+  width: 100%;
+  justify-content: center;
+}
+.navigationItem {
+  color: var(--primary-white-FFFFFF);
+  font-size: 18px;
+}
+.tcenter {
+  display: flex;
+}
+.katukou {
+  display: flex;
+  position: relative;
+  margin-right: 61px;
+}
+.geo_1 {
+  margin-right: 9.38px;
+}
+.geo_2 {
+  position: absolute;
+  top: 50%;
+  left: 2.5%;
+  transform: translateY(-50%);
+}
+.contacts {
+  display: flex;
+}
+.box_2 {
+  display: flex;
+}
+.tel {
+  font-size: 18px;
+  font-weight: 500;
+}
+.telImg {
+  margin-right: 13px;
+}
+.btn {
+  font-size: 18px;
+  color: var(--primary-white-FFFFFF);
+  background-color: var(--button-color-0082FE);
+  padding: 21px 26px;
+  border-radius: 10px;
+  cursor: pointer;
+}

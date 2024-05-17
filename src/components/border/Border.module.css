@@ -1,0 +1,42 @@
+.border {
+  background-image: image-set(
+    url('../../images/border/border_x1.png'),
+    url('../../images/border/border_x2.png')
+  );
+  width: 1920px;
+  height: 956px;
+  /* height: 1096px; */
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  margin-bottom: 236px;
+}
+
+.borderImages {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  padding-top: 46px;
+  margin-bottom: 40px;
+  position: relative;
+}
+.img_1 {
+  width: 319px;
+  height: 374px;
+}
+.img_2 {
+  width: 191.47px;
+  height: 224.4px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -44%);
+}
+.boxTitle {
+  width: 100%;
+  text-align: center;
+}
+.title {
+  font-size: 80px;
+  color: var(--primary-white-FFFFFF);
+}
