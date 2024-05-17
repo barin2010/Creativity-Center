@@ -1,8 +1,22 @@
 {
   "files": {
-    "main.css": "/barin2010.github.io/Creativity-Center/static/css/main.93a3a1fa.css",
-    "main.js": "/barin2010.github.io/Creativity-Center/static/js/main.4e763762.js",
+    "main.css": "/barin2010.github.io/Creativity-Center/static/css/main.0bd7dc07.css",
+    "main.js": "/barin2010.github.io/Creativity-Center/static/js/main.cfdd8771.js",
+    "static/media/border_x2.png": "/barin2010.github.io/Creativity-Center/static/media/border_x2.99af87b0ffe6d0cc5380.png",
+    "static/media/maick_2x.png": "/barin2010.github.io/Creativity-Center/static/media/maick_2x.e592544ace8c09880471.png",
+    "static/media/border_x1.png": "/barin2010.github.io/Creativity-Center/static/media/border_x1.681578bf15f3fb758879.png",
+    "static/media/americant_x2.png": "/barin2010.github.io/Creativity-Center/static/media/americant_x2.e88f3674c5b347b3e0de.png",
+    "static/media/dance_x2.png": "/barin2010.github.io/Creativity-Center/static/media/dance_x2.8b421ad8fe9d8dfde58b.png",
+    "static/media/maciel_2x.png": "/barin2010.github.io/Creativity-Center/static/media/maciel_2x.91934d16eccbd5a524ea.png",
+    "static/media/servises_2x.png": "/barin2010.github.io/Creativity-Center/static/media/servises_2x.de67cac5455de01ec668.png",
+    "static/media/nik_2x.png": "/barin2010.github.io/Creativity-Center/static/media/nik_2x.f4b1bae54d42bf731c7e.png",
+    "static/media/maick_1x.png": "/barin2010.github.io/Creativity-Center/static/media/maick_1x.3d97cf7f8f0ff0440964.png",
+    "static/media/americant_x1.png": "/barin2010.github.io/Creativity-Center/static/media/americant_x1.9dc1e01e23f0aaaaea06.png",
+    "static/media/dance_x1.png": "/barin2010.github.io/Creativity-Center/static/media/dance_x1.99ee9eada29638f4d641.png",
+    "static/media/maciel_1x.png": "/barin2010.github.io/Creativity-Center/static/media/maciel_1x.ee9e41237610aa1aa2ca.png",
+    "static/media/servises_1x.png": "/barin2010.github.io/Creativity-Center/static/media/servises_1x.fb841170a699e9935ec6.png",
     "static/media/Inter-Regular.woff": "/barin2010.github.io/Creativity-Center/static/media/Inter-Regular.0d6f7c99e635f1fec4c9.woff",
+    "static/media/nik_1x.png": "/barin2010.github.io/Creativity-Center/static/media/nik_1x.91d98693f8e2238da9cb.png",
     "static/media/Inter-Regular.woff2": "/barin2010.github.io/Creativity-Center/static/media/Inter-Regular.bd097ceff83f90802a12.woff2",
     "static/media/Oswald-Bold.woff": "/barin2010.github.io/Creativity-Center/static/media/Oswald-Bold.6f8a79584e196ebbb3e4.woff",
     "static/media/Oswald-Light.woff": "/barin2010.github.io/Creativity-Center/static/media/Oswald-Light.74386c69a32d4334eb79.woff",
@@ -10,12 +24,26 @@
     "static/media/Gilroy-Bold.woff": "/barin2010.github.io/Creativity-Center/static/media/Gilroy-Bold.5fb38b9fa452b5814397.woff",
     "static/media/Gilroy-SemiBold.woff": "/barin2010.github.io/Creativity-Center/static/media/Gilroy-SemiBold.e38937dbf8202c144802.woff",
     "static/media/Gilroy-Regular.woff": "/barin2010.github.io/Creativity-Center/static/media/Gilroy-Regular.31d54a4b841c0e438f13.woff",
+    "static/media/tcentr.svg": "/barin2010.github.io/Creativity-Center/static/media/tcentr.c9faec64ded4a316567f87a478b448a3.svg",
+    "static/media/tel.svg": "/barin2010.github.io/Creativity-Center/static/media/tel.98696cd495efc614baf34ce83f00ab56.svg",
     "index.html": "/barin2010.github.io/Creativity-Center/index.html",
-    "main.93a3a1fa.css.map": "/barin2010.github.io/Creativity-Center/static/css/main.93a3a1fa.css.map",
-    "main.4e763762.js.map": "/barin2010.github.io/Creativity-Center/static/js/main.4e763762.js.map"
+    "static/media/0_2.svg": "/barin2010.github.io/Creativity-Center/static/media/0_2.1bcb4ce05df3b336f608a6f148e5b8e6.svg",
+    "static/media/0_1.svg": "/barin2010.github.io/Creativity-Center/static/media/0_1.606419ec550a84eac7bce9730ea9cafe.svg",
+    "static/media/c_1.svg": "/barin2010.github.io/Creativity-Center/static/media/c_1.9d3589be37b4cded350970b0f2a70110.svg",
+    "static/media/c_2.svg": "/barin2010.github.io/Creativity-Center/static/media/c_2.077ab834dfeea80ff08ca8db9192ae8f.svg",
+    "static/media/r.svg": "/barin2010.github.io/Creativity-Center/static/media/r.16a168641fca3a851b446501dbc08f06.svg",
+    "static/media/arrow_right.svg": "/barin2010.github.io/Creativity-Center/static/media/arrow_right.8cdafc2006e3ee053b5c034f1a875432.svg",
+    "static/media/geo_1.svg": "/barin2010.github.io/Creativity-Center/static/media/geo_1.d8a2930d2251bfa0eb5bfef8f3ac2c8d.svg",
+    "static/media/geo_2.svg": "/barin2010.github.io/Creativity-Center/static/media/geo_2.cb0ad77e1a87461e5ccec456650eeae4.svg",
+    "static/media/n.svg": "/barin2010.github.io/Creativity-Center/static/media/n.786fe7db993325f7cdbe123406fe9fe5.svg",
+    "static/media/i.svg": "/barin2010.github.io/Creativity-Center/static/media/i.d1309da67995690ed67c21ca19d794ba.svg",
+    "static/media/g.svg": "/barin2010.github.io/Creativity-Center/static/media/g.4da10c5a8b55ee94fdcef3b83ce2fb04.svg",
+    "static/media/t.svg": "/barin2010.github.io/Creativity-Center/static/media/t.da08a38d5ca4663da0014186d7b02aa8.svg",
+    "main.0bd7dc07.css.map": "/barin2010.github.io/Creativity-Center/static/css/main.0bd7dc07.css.map",
+    "main.cfdd8771.js.map": "/barin2010.github.io/Creativity-Center/static/js/main.cfdd8771.js.map"
   },
   "entrypoints": [
-    "static/css/main.93a3a1fa.css",
-    "static/js/main.4e763762.js"
+    "static/css/main.0bd7dc07.css",
+    "static/js/main.cfdd8771.js"
   ]
 }
