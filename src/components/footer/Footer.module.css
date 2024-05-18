@@ -1,0 +1,145 @@
+.footer {
+  background-color: var(--footer-color-010938);
+}
+
+.footerWrapper {
+  padding-top: 99px;
+  padding-bottom: 100px;
+}
+.footerBox {
+  display: flex;
+}
+.stroginoImg {
+  width: 185px;
+  margin-bottom: 24px;
+}
+.stroginoTsentr {
+  font-weight: 400;
+  font-size: 15px;
+  color: var(--primary-white-FFFFFF);
+  margin-bottom: 16px;
+}
+.stroginoEye {
+  display: flex;
+  gap: 7px;
+  align-items: center;
+  margin-bottom: 18px;
+}
+.eyeImg {
+  width: 28px;
+  height: 24px;
+  margin: 0;
+  padding: 0;
+}
+.eyeText {
+  font-size: 15px;
+  line-height: 1.25em;
+  color: var(--primary-white-FFFFFF);
+}
+.stroginoWork {
+  font-size: 18px;
+  color: var(--primary-white-FFFFFF);
+}
+.stroginoWork span {
+  text-transform: uppercase;
+}
+.socialBox {
+  display: flex;
+  gap: 48.5px;
+  padding-top: 17.35px;
+}
+.aboutList {
+  display: flex;
+  flex-direction: column;
+  padding-left: 26px;
+  justify-content: space-between;
+}
+.aboutLink {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.95em;
+  color: var(--primary-white-FFFFFF);
+}
+.documentList {
+  display: flex;
+  flex-direction: column;
+  padding-left: 58px;
+  justify-content: space-between;
+}
+.formBox {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+}
+.formInput,
+.formInputArea {
+  width: 289px;
+  border-radius: 5px;
+  background-color: var(--input-background-E1E3E5);
+  padding: 14px 17px;
+}
+.formInputArea {
+  height: 66px;
+}
+.formInput::placeholder,
+.formInputArea::placeholder {
+  font-weight: 500;
+  font-size: 13px;
+  color: #100f0f;
+  opacity: 50%;
+}
+.checkbox {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.checkboxInput {
+  width: 19px;
+  height: 19px;
+  border-radius: 5px;
+  background-color: solid var(--input-background-E1E3E5);
+}
+.checkboxText {
+  font-weight: 500;
+  font-size: 10px;
+  color: var(--primary-white-FFFFFF);
+}
+.btn {
+  width: 134px;
+  padding: 21px 26px;
+  border-radius: 10px;
+  background-color: var(--button-color-0082FE);
+  font-size: 16px;
+  color: var(--primary-white-FFFFFF);
+}
+.partners {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 50px;
+}
+.partnersTitle {
+  font-size: 22px;
+  color: var(--primary-white-FFFFFF);
+}
+.partnersList {
+  display: flex;
+  gap: 17px;
+}
+.download {
+  display: flex;
+  gap: 14.4px;
+}
+.downloadGoogle {
+  width: 145px;
+}
+.downloadApp {
+  width: 132px;
+}
