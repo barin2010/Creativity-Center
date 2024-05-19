@@ -9,7 +9,7 @@ import Contacts from './contacts/Contacts';
 export const App = () => {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename="/Creativity-Center">
         <Header />
         <Routes>
           <Route path="/" element={<Home />}></Route>
