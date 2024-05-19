@@ -5,7 +5,6 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  max-width: 1920px;
   margin: 0 auto;
 }
 .box_1 {
@@ -77,9 +76,9 @@
 .navigation {
   align-items: center;
   justify-content: center;
+  background-color: var(--primary-font-color-02061D);
 }
 .navigationList {
-  background-color: var(--primary-font-color-02061D);
   display: flex;
   gap: 35px;
   padding: 19px 0;
