@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/barin2010.github.io/Creativity-Center/static/css/main.c1595858.css",
-    "main.js": "/barin2010.github.io/Creativity-Center/static/js/main.fbbfd6ca.js",
+    "main.js": "/barin2010.github.io/Creativity-Center/static/js/main.7a0c921e.js",
     "static/media/border_x2.png": "/barin2010.github.io/Creativity-Center/static/media/border_x2.99af87b0ffe6d0cc5380.png",
     "static/media/maick_2x.png": "/barin2010.github.io/Creativity-Center/static/media/maick_2x.e592544ace8c09880471.png",
     "static/media/border_x1.png": "/barin2010.github.io/Creativity-Center/static/media/border_x1.681578bf15f3fb758879.png",
@@ -52,10 +52,10 @@
     "static/media/g.svg": "/barin2010.github.io/Creativity-Center/static/media/g.4da10c5a8b55ee94fdcef3b83ce2fb04.svg",
     "static/media/t.svg": "/barin2010.github.io/Creativity-Center/static/media/t.da08a38d5ca4663da0014186d7b02aa8.svg",
     "main.c1595858.css.map": "/barin2010.github.io/Creativity-Center/static/css/main.c1595858.css.map",
-    "main.fbbfd6ca.js.map": "/barin2010.github.io/Creativity-Center/static/js/main.fbbfd6ca.js.map"
+    "main.7a0c921e.js.map": "/barin2010.github.io/Creativity-Center/static/js/main.7a0c921e.js.map"
   },
   "entrypoints": [
     "static/css/main.c1595858.css",
-    "static/js/main.fbbfd6ca.js"
+    "static/js/main.7a0c921e.js"
   ]
 }
