@@ -1,4 +1,5 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 import css from './Header.module.css';
 import tcentr from '../../images/icons/tcentr.svg';
 import c_1 from '../../images/icons/c_1.svg';
@@ -86,14 +87,27 @@ const Header = () => {
         </div>
         <nav className={css.navigation}>
           <ul className={css.navigationList}>
-            <li className={css.navigationItem}>О центре</li>
+            <li>
+              <NavLink className={css.navigationItem} to="/">
+                О центре
+              </NavLink>
+            </li>
             <li className={css.navigationItem}>Афиша</li>
             <li className={css.navigationItem}>Студии</li>
             <li className={css.navigationItem}>Расписание</li>
             <li className={css.navigationItem}>Пространства</li>
             <li className={css.navigationItem}>Абонементы</li>
-            <li className={css.navigationItem}>Организаторам</li>
-            <li className={css.navigationItem}>Контакты</li>
+            <li>
+              <NavLink className={css.navigationItem} to="/organizers">
+                Организаторам
+              </NavLink>
+            </li>
+
+            <li>
+              <NavLink className={css.navigationItem} to="/contacts">
+                Контакты
+              </NavLink>
+            </li>
           </ul>
         </nav>
       </div>

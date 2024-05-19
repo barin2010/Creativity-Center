@@ -1,0 +1,178 @@
+.contacts {
+  background-color: var(--contacts-background-02061D);
+}
+.contactsWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.logoBox {
+  display: flex;
+  padding-top: 64px;
+  gap: 26px;
+  align-items: center;
+}
+.contactsTitle {
+  font-size: 65px;
+  color: var(--primary-white-FFFFFF);
+}
+.katukov {
+  padding-top: 73px;
+  display: flex;
+  gap: 24px;
+}
+.adress_1 {
+  padding: 28px 34px 34px 34px;
+  background-color: var(--primary-white-FFFFFF);
+  border-radius: 15px;
+}
+.name {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 1.69em;
+  margin-bottom: 9px;
+}
+.adressName {
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 1.69em;
+  margin-bottom: 20px;
+}
+.adressName span {
+  font-weight: 700;
+}
+.phone {
+  padding-bottom: -5px;
+}
+.adressOff {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.69em;
+  text-decoration: underline;
+}
+.boss {
+  font-size: 30px;
+  line-height: 1.69em;
+  margin-bottom: 14px;
+}
+.dayBox {
+  display: flex;
+  width: 100%;
+  gap: 69px;
+  margin-bottom: 53px;
+}
+.work {
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 1.69em;
+}
+.workTime {
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 1.69em;
+}
+.contactsBox_2 {
+  display: flex;
+  gap: 46px;
+  width: 100%;
+}
+.contactsTcentr {
+  width: 214px;
+}
+.contactsTcentrTitle {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.11em;
+}
+.contactsTcentrWeek {
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+}
+.contactsTcentrWeekTitle {
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 1.69em;
+}
+.contactsTcentrTime {
+  font-size: 23px;
+  font-weight: 500;
+  line-height: 1.69em;
+}
+.requisites {
+  padding: 70px 0;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.requisitesBox {
+  width: 100%;
+}
+.requisitesTitle {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.69em;
+  color: var(--primary-white-FFFFFF);
+  margin-bottom: 10px;
+}
+.requisitesAdress {
+  display: flex;
+  gap: 48px;
+}
+.requisitesDescription {
+  font-size: 23px;
+  line-height: 1.72em;
+  color: var(--primary-white-FFFFFF);
+}
+.rentBox {
+  display: flex;
+  gap: 102px;
+  width: 100%;
+  border-radius: 15px;
+  background-color: var(--primary-white-FFFFFF);
+  padding: 51px 116px;
+}
+.rentQuestion {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.rentQuestionTitle {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 1.69em;
+}
+.rentBoxPhone {
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 1.69em;
+}
+.rentQuestion_1 {
+  min-width: 314px;
+}
+.boxAdress {
+  display: flex;
+  padding-top: 78px;
+  padding-bottom: 70px;
+}
+.boxAdressTitle {
+  padding-right: 70px;
+}
+.boxAdressText {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.69em;
+  color: var(--primary-white-FFFFFF);
+}
+.adressList {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-right: 41px;
+}
+.adressItem {
+  font-size: 23px;
+  font-weight: 500;
+  line-height: 1.69em;
+  color: var(--primary-white-FFFFFF);
+}
