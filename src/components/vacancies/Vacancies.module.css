@@ -1,0 +1,75 @@
+.vacansies {
+  background-image: image-set(
+    url('../../images/background/vacant_1x.png') 1x,
+    url(../../images/background/vacant_2x.png) 2x
+  );
+  height: 965px;
+  width: 1920px;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  padding-top: 124px;
+}
+.vacansiesWrapper {
+  display: flex;
+  flex-direction: column;
+}
+.logoBox {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+  margin-bottom: 11px;
+}
+.logoImg {
+  width: 218px;
+  height: 184px;
+}
+.vacansiesTitle {
+  font-size: 80px;
+  color: var(--primary-white-FFFFFF);
+}
+.vacansiesList {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 24px;
+  margin-left: 208px;
+}
+.vacansiesItem {
+  width: 396px;
+  padding: 15px 19px;
+  background-color: var(--primary-white-FFFFFF);
+  border-radius: 10px;
+}
+.vacansiesItem {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+.vacansiesText {
+  font-size: 22px;
+}
+.vacansiesTel {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  margin-left: 208px;
+}
+.vacansiesBtn {
+  /* width: 184px; */
+  border-radius: 10px;
+  background-color: var(--button-poster-CC0EF1);
+  padding: 18px 29px;
+  font-size: 19px;
+  color: var(--primary-white-FFFFFF);
+  margin-right: 24px;
+}
+.vacansiesPhone {
+  width: 20px;
+  height: 20px;
+  margin-right: 13px;
+}
+
+.vacansiesNumber {
+  font-size: 16px;
+  color: var(--primary-white-FFFFFF);
+}

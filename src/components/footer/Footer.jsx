@@ -1,5 +1,6 @@
 import React from 'react';
 import { useLocation } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import css from './Footer.module.css';
 import str from '../../images/icons/strogino.svg';
 import eye from '../../images/icons/eye.svg';
@@ -166,12 +167,12 @@ const Footer = () => {
                   </a>
                 </li>
                 <li className={css.documentItem}>
-                  <a
+                  <NavLink
+                    to="/vacansies"
                     className={isHomePage ? css.aboutLink : css.aboutLinkLight}
-                    href="#!"
                   >
                     Вакансии
-                  </a>
+                  </NavLink>
                 </li>
                 <li className={css.documentItem}>
                   <a
@@ -242,7 +243,11 @@ const Footer = () => {
                   type="checkbox"
                   checked="checked"
                 />
-                <p className={isHomePage?css.checkboxText:css.checkboxTextLight}>
+                <p
+                  className={
+                    isHomePage ? css.checkboxText : css.checkboxTextLight
+                  }
+                >
                   Я согласен на обработку моих персональных данных
                 </p>
               </div>
