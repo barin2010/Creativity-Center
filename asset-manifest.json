@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/Creativity-Center/static/css/main.44d9ddcb.css",
-    "main.js": "/Creativity-Center/static/js/main.d76ce869.js",
+    "main.css": "/Creativity-Center/static/css/main.8c1311f9.css",
+    "main.js": "/Creativity-Center/static/js/main.74967320.js",
+    "static/media/vacant_2x.png": "/Creativity-Center/static/media/vacant_2x.850e599b488647684b5d.png",
+    "static/media/vacant_1x.png": "/Creativity-Center/static/media/vacant_1x.dad561b12cf2d39de9d5.png",
     "static/media/border_x2.png": "/Creativity-Center/static/media/border_x2.99af87b0ffe6d0cc5380.png",
     "static/media/map_2x.png": "/Creativity-Center/static/media/map_2x.9c63fdf5d3a5f73ecb21.png",
     "static/media/g2Light.svg": "/Creativity-Center/static/media/g2Light.36e22d61039aa8cfdc757f72c0dbeef3.svg",
@@ -43,7 +45,9 @@
     "static/media/tcentr.svg": "/Creativity-Center/static/media/tcentr.c9faec64ded4a316567f87a478b448a3.svg",
     "static/media/g4Light.svg": "/Creativity-Center/static/media/g4Light.a1e392fbe6dcf8bbfbcef85b96ecfdcf.svg",
     "static/media/g4.svg": "/Creativity-Center/static/media/g4.0a310a40cb480fcbdbebc58200d9b0ba.svg",
+    "static/media/phone.svg": "/Creativity-Center/static/media/phone.6238befba7fbd375f64762b2111be46f.svg",
     "static/media/tel.svg": "/Creativity-Center/static/media/tel.98696cd495efc614baf34ce83f00ab56.svg",
+    "static/media/admin.svg": "/Creativity-Center/static/media/admin.31136636aa3d5ec2670b4e9917f926d7.svg",
     "static/media/Cc.svg": "/Creativity-Center/static/media/Cc.583c6e2eaebe26e425504ed0bf01e9ba.svg",
     "static/media/0_2.svg": "/Creativity-Center/static/media/0_2.1bcb4ce05df3b336f608a6f148e5b8e6.svg",
     "index.html": "/Creativity-Center/index.html",
@@ -61,11 +65,11 @@
     "static/media/i.svg": "/Creativity-Center/static/media/i.d1309da67995690ed67c21ca19d794ba.svg",
     "static/media/g.svg": "/Creativity-Center/static/media/g.4da10c5a8b55ee94fdcef3b83ce2fb04.svg",
     "static/media/t.svg": "/Creativity-Center/static/media/t.da08a38d5ca4663da0014186d7b02aa8.svg",
-    "main.44d9ddcb.css.map": "/Creativity-Center/static/css/main.44d9ddcb.css.map",
-    "main.d76ce869.js.map": "/Creativity-Center/static/js/main.d76ce869.js.map"
+    "main.8c1311f9.css.map": "/Creativity-Center/static/css/main.8c1311f9.css.map",
+    "main.74967320.js.map": "/Creativity-Center/static/js/main.74967320.js.map"
   },
   "entrypoints": [
-    "static/css/main.44d9ddcb.css",
-    "static/js/main.d76ce869.js"
+    "static/css/main.8c1311f9.css",
+    "static/js/main.74967320.js"
   ]
 }
