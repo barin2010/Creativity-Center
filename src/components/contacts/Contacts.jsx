@@ -101,7 +101,7 @@ const Contacts = () => {
               <li className={css.adressItem}>Исаковского, 6к1</li>
             </ul>
           </div>
-          <img srcSet={`${map_1x} ${map_2x}`} src={map_1x} alt="map" />
+          <img className={css.adressMap} srcSet={`${map_1x} ${map_2x}`} src={map_1x} alt="map" />
         </div>
       </div>
     </section>

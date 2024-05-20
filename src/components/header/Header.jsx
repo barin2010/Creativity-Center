@@ -21,52 +21,54 @@ const Header = () => {
         <div className={css.box_1}>
           <div className={css.letters}>
             <div className={css.lettersList}>
-              <img
-                className={`${css.lettersItems} ${css.itemsC_1}`}
-                src={c_1}
-                alt="C"
-              />
-              <img
-                className={`${css.lettersItems} ${css.itemsC_2}`}
-                src={c_2}
-                alt="C"
-              />
-              <img
-                className={`${css.lettersItems} ${css.itemsT}`}
-                src={t}
-                alt="T"
-              />
-              <img
-                className={`${css.lettersItems} ${css.itemsR}`}
-                src={r}
-                alt="R"
-              />
-              <img
-                className={`${css.lettersItems} ${css.itemsO_1}`}
-                src={o}
-                alt="O"
-              />
-              <img
-                className={`${css.lettersItems} ${css.itemsG}`}
-                src={g}
-                alt="G"
-              />
-              <img
-                className={`${css.lettersItems} ${css.itemsI}`}
-                src={i}
-                alt="I"
-              />
-              <img
-                className={`${css.lettersItems} ${css.itemsN}`}
-                src={n}
-                alt="N"
-              />
-              <img
-                className={`${css.lettersItems} ${css.itemsO_2}`}
-                src={o_2}
-                alt="O"
-              />
-              <img className={css.tcenter} src={tcentr} alt="Tcenter" />
+              <NavLink to="/">
+                <img
+                  className={`${css.lettersItems} ${css.itemsC_1}`}
+                  src={c_1}
+                  alt="C"
+                />
+                <img
+                  className={`${css.lettersItems} ${css.itemsC_2}`}
+                  src={c_2}
+                  alt="C"
+                />
+                <img
+                  className={`${css.lettersItems} ${css.itemsT}`}
+                  src={t}
+                  alt="T"
+                />
+                <img
+                  className={`${css.lettersItems} ${css.itemsR}`}
+                  src={r}
+                  alt="R"
+                />
+                <img
+                  className={`${css.lettersItems} ${css.itemsO_1}`}
+                  src={o}
+                  alt="O"
+                />
+                <img
+                  className={`${css.lettersItems} ${css.itemsG}`}
+                  src={g}
+                  alt="G"
+                />
+                <img
+                  className={`${css.lettersItems} ${css.itemsI}`}
+                  src={i}
+                  alt="I"
+                />
+                <img
+                  className={`${css.lettersItems} ${css.itemsN}`}
+                  src={n}
+                  alt="N"
+                />
+                <img
+                  className={`${css.lettersItems} ${css.itemsO_2}`}
+                  src={o_2}
+                  alt="O"
+                />
+                <img className={css.tcenter} src={tcentr} alt="Tcenter" />
+              </NavLink>
             </div>
           </div>
           <div className={css.contacts}>
@@ -92,7 +94,9 @@ const Header = () => {
                 О центре
               </NavLink>
             </li>
-            <li className={css.navigationItem}>Афиша</li>
+            <a href="#poster">
+              <li className={css.navigationItem}>Афиша</li>
+            </a>
             <li className={css.navigationItem}>Студии</li>
             <li className={css.navigationItem}>Расписание</li>
             <li className={css.navigationItem}>Пространства</li>

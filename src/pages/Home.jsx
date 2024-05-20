@@ -5,12 +5,13 @@ import Directions from 'components/directions/Directions';
 import Poster from 'components/poster/Poster';
 import Services from 'components/services/Services';
 import React from 'react';
+import { postersData } from 'components/poster/postersData';
 
 const Home = () => {
   return (
     <div>
       <Border />
-      <Poster />
+      <Poster poster={postersData} />
       <Directions />
       <Services />
       <Applications />

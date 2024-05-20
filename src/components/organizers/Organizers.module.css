@@ -1,0 +1,45 @@
+.organizers {
+  background-color: var(--contacts-background-02061D);
+}
+.organizersWrapper {
+  display: flex;
+  flex-direction: column;
+  padding-top: 123px;
+  padding-bottom: 216px;
+}
+.organizersBox {
+  display: flex;
+  gap: 25px;
+  align-items: center;
+}
+.organizersLogo {
+  width: 184px;
+  height: 228px;
+}
+.organizersTitle {
+  font-size: 80px;
+  color: var(--primary-white-FFFFFF);
+}
+.organizersList {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 396px;
+  margin-left: 208px;
+}
+.organizersItem {
+  width: 100%;
+  display: flex;
+  gap: 16px;
+  padding: 18px 21px;
+  background-color: var(--primary-white-FFFFFF);
+  border-radius: 10px;
+  cursor: pointer;
+}
+.organizersFolder {
+  width: 40px;
+  height: 40px;
+}
+.organizersText {
+  font-size: 22px;
+}
