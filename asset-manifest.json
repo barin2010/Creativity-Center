@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Creativity-Center/static/css/main.9a207cc2.css",
-    "main.js": "/Creativity-Center/static/js/main.22322067.js",
+    "main.css": "/Creativity-Center/static/css/main.44d9ddcb.css",
+    "main.js": "/Creativity-Center/static/js/main.d76ce869.js",
     "static/media/border_x2.png": "/Creativity-Center/static/media/border_x2.99af87b0ffe6d0cc5380.png",
     "static/media/map_2x.png": "/Creativity-Center/static/media/map_2x.9c63fdf5d3a5f73ecb21.png",
+    "static/media/g2Light.svg": "/Creativity-Center/static/media/g2Light.36e22d61039aa8cfdc757f72c0dbeef3.svg",
     "static/media/maick_2x.png": "/Creativity-Center/static/media/maick_2x.e592544ace8c09880471.png",
     "static/media/border_x1.png": "/Creativity-Center/static/media/border_x1.681578bf15f3fb758879.png",
     "static/media/americant_x2.png": "/Creativity-Center/static/media/americant_x2.e88f3674c5b347b3e0de.png",
@@ -31,11 +32,16 @@
     "static/media/Gilroy-Bold.woff": "/Creativity-Center/static/media/Gilroy-Bold.5fb38b9fa452b5814397.woff",
     "static/media/Gilroy-SemiBold.woff": "/Creativity-Center/static/media/Gilroy-SemiBold.e38937dbf8202c144802.woff",
     "static/media/Gilroy-Regular.woff": "/Creativity-Center/static/media/Gilroy-Regular.31d54a4b841c0e438f13.woff",
+    "static/media/g7Light.svg": "/Creativity-Center/static/media/g7Light.ff45297f9ca58e7c81307ce9f27b4a70.svg",
     "static/media/g7.svg": "/Creativity-Center/static/media/g7.e8e2099ee648d9837e54e7203757dcf5.svg",
+    "static/media/g5Light.svg": "/Creativity-Center/static/media/g5Light.e6102722c37bdcdb52c28b939e9bcb72.svg",
     "static/media/g5.svg": "/Creativity-Center/static/media/g5.1c32f8fdb87cbc04d7bfa5dec7e6fbca.svg",
     "static/media/strogino.svg": "/Creativity-Center/static/media/strogino.13e80ef27dd60f9757308cad2790194a.svg",
+    "static/media/strLight.svg": "/Creativity-Center/static/media/strLight.6a0b944b646023a76b1e28f8ff6cc7da.svg",
     "static/media/g6.svg": "/Creativity-Center/static/media/g6.f101b8588ed2c4608dc86bec5c87241f.svg",
+    "static/media/g6Light.svg": "/Creativity-Center/static/media/g6Light.ef6a1d684cf72be789f18b881d73e59d.svg",
     "static/media/tcentr.svg": "/Creativity-Center/static/media/tcentr.c9faec64ded4a316567f87a478b448a3.svg",
+    "static/media/g4Light.svg": "/Creativity-Center/static/media/g4Light.a1e392fbe6dcf8bbfbcef85b96ecfdcf.svg",
     "static/media/g4.svg": "/Creativity-Center/static/media/g4.0a310a40cb480fcbdbebc58200d9b0ba.svg",
     "static/media/tel.svg": "/Creativity-Center/static/media/tel.98696cd495efc614baf34ce83f00ab56.svg",
     "static/media/Cc.svg": "/Creativity-Center/static/media/Cc.583c6e2eaebe26e425504ed0bf01e9ba.svg",
@@ -43,6 +49,7 @@
     "index.html": "/Creativity-Center/index.html",
     "static/media/0_1.svg": "/Creativity-Center/static/media/0_1.606419ec550a84eac7bce9730ea9cafe.svg",
     "static/media/eye.svg": "/Creativity-Center/static/media/eye.9c1bfc443fbb93d3da90f42698ac4a97.svg",
+    "static/media/folder.svg": "/Creativity-Center/static/media/folder.013d81a593d912fd30c53a29b85d8e5c.svg",
     "static/media/c_1.svg": "/Creativity-Center/static/media/c_1.9d3589be37b4cded350970b0f2a70110.svg",
     "static/media/c_2.svg": "/Creativity-Center/static/media/c_2.077ab834dfeea80ff08ca8db9192ae8f.svg",
     "static/media/r.svg": "/Creativity-Center/static/media/r.16a168641fca3a851b446501dbc08f06.svg",
@@ -54,11 +61,11 @@
     "static/media/i.svg": "/Creativity-Center/static/media/i.d1309da67995690ed67c21ca19d794ba.svg",
     "static/media/g.svg": "/Creativity-Center/static/media/g.4da10c5a8b55ee94fdcef3b83ce2fb04.svg",
     "static/media/t.svg": "/Creativity-Center/static/media/t.da08a38d5ca4663da0014186d7b02aa8.svg",
-    "main.9a207cc2.css.map": "/Creativity-Center/static/css/main.9a207cc2.css.map",
-    "main.22322067.js.map": "/Creativity-Center/static/js/main.22322067.js.map"
+    "main.44d9ddcb.css.map": "/Creativity-Center/static/css/main.44d9ddcb.css.map",
+    "main.d76ce869.js.map": "/Creativity-Center/static/js/main.d76ce869.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a207cc2.css",
-    "static/js/main.22322067.js"
+    "static/css/main.44d9ddcb.css",
+    "static/js/main.d76ce869.js"
   ]
 }
