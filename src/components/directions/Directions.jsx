@@ -1,4 +1,5 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 import css from './Directions.module.css';
 import maick_1x from '../../images/directions/maick_1x.png';
 import maick_2x from '../../images/directions/maick_2x.png';
@@ -22,7 +23,10 @@ const Directions = () => {
               <div className={css.title}>
                 <p className={css.text}>Для взрослых</p>
               </div>
-              <button className={css.btn}>ПОДРОБНЕЕ</button>
+              <NavLink to="/directions/for_adults">
+                <button className={css.btn}>ПОДРОБНЕЕ</button>
+              </NavLink>
+              {/* <button className={css.btn}>ПОДРОБНЕЕ</button> */}
             </div>
             <div className={css.directionsBox}>
               <img
@@ -34,7 +38,9 @@ const Directions = () => {
               <div className={css.title}>
                 <p className={css.text}>Для детей</p>
               </div>
-              <button className={css.btn}>ПОДРОБНЕЕ</button>
+              <NavLink to="/directions/for_children">
+                <button className={css.btn}>ПОДРОБНЕЕ</button>
+              </NavLink>
             </div>
           </div>
         </div>

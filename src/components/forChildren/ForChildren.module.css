@@ -1,0 +1,74 @@
+.forchildrensWrapper {
+  display: flex;
+  flex-direction: column;
+}
+.forchildrens {
+  background-color: var(--contacts-background-02061D);
+  padding-top: 70px;
+  padding-bottom: 110px;
+}
+.childrensBox {
+  display: flex;
+  gap: 28px;
+  align-items: center;
+  margin-bottom: 68px;
+}
+.childrensTitle {
+  font-size: 30px;
+  color: var(--primary-white-FFFFFF);
+  opacity: 50%;
+}
+.childrensText {
+  font-weight: 500;
+  font-size: 30px;
+  color: var(--primary-white-FFFFFF);
+  text-decoration: underline;
+}
+.adltsList {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 32px;
+  column-gap: 24px;
+}
+.childrensItem {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.childrensItemIng {
+  width: 392px;
+  border-radius: 10px;
+  margin-bottom: 16px;
+}
+
+.imgBox {
+  position: absolute;
+  width: 52px;
+  height: 52px;
+  border-radius: 50px;
+  background-color: var(--primary-white-FFFFFF);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  top: 18px;
+  left: 17px;
+}
+.childrensItemIcon {
+  width: 24px;
+  height: 24px;
+}
+.childrensItemName {
+  font-size: 22px;
+  color: var(--primary-white-FFFFFF);
+  margin-bottom: 28px;
+}
+.childrenLink {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.childrenLinkText {
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--primary-white-FFFFFF);
+}

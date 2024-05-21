@@ -1,0 +1,97 @@
+.sportAdult {
+  background-color: var(--contacts-background-02061D);
+  width: 1920px;
+  margin: 0 auto;
+}
+
+.sportAdultWrapper {
+  padding-top: 70px;
+  padding-bottom: 100px;
+}
+.sportAdultBox {
+  display: flex;
+  align-items: center;
+  gap: 26px;
+  margin-bottom: 64px;
+}
+.sportAdultTitle {
+  font-size: 30px;
+  color: var(--primary-white-FFFFFF);
+  opacity: 50%;
+}
+.sportAdultArrow {
+  width: 24px;
+  height: 24px;
+}
+.sportAdultActive {
+  font-size: 30px;
+  font-weight: 500;
+  color: var(--primary-white-FFFFFF);
+  text-decoration: underline;
+}
+.sportAdultList {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 42px;
+}
+.sportAdultItem {
+  display: flex;
+  flex-direction: column;
+  width: 392px;
+  position: relative;
+}
+.sportAdultImg {
+  width: 100%;
+  border-radius: 9px;
+  margin-bottom: 24px;
+}
+.sportAdultBoxAge {
+  width: 76px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9px;
+  background-color: var(--button-poster-CC0EF1);
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.sportAdultAge {
+  font-weight: 700;
+  font-size: 25px;
+  color: var(--primary-white-FFFFFF);
+}
+.sportAdultNameBox {
+  display: flex;
+
+  flex-direction: column;
+  width: 363px;
+  padding: 20px 35px;
+  background-color: var(--button-color-0082FE);
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+  position: absolute;
+  top: 264px;
+  left: 0;
+}
+.sportAdultTextOne {
+  font-weight: 700;
+  font-size: 20px;
+  color: var(--primary-white-FFFFFF);
+  text-transform: uppercase;
+}
+.sportAdultTextTwo {
+  font-weight: 700;
+  font-size: 20px;
+  color: var(--primary-white-FFFFFF);
+}
+.sportAdultBtn {
+  width: 183px;
+  background-color: var(--button-poster-CC0EF1);
+  border-radius: 10px;
+  padding: 18px 44px;
+  font-size: 16px;
+  color: var(--primary-white-FFFFFF);
+}
