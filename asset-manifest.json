@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Creativity-Center/static/css/main.89aa6dc8.css",
-    "main.js": "/Creativity-Center/static/js/main.ba753ecc.js",
+    "main.css": "/Creativity-Center/static/css/main.6ee45059.css",
+    "main.js": "/Creativity-Center/static/js/main.75bdbabd.js",
     "static/media/vacant_2x.png": "/Creativity-Center/static/media/vacant_2x.850e599b488647684b5d.png",
     "static/media/vacant_1x.png": "/Creativity-Center/static/media/vacant_1x.dad561b12cf2d39de9d5.png",
     "static/media/border_x2.png": "/Creativity-Center/static/media/border_x2.99af87b0ffe6d0cc5380.png",
@@ -87,18 +87,20 @@
     "static/media/r.svg": "/Creativity-Center/static/media/r.16a168641fca3a851b446501dbc08f06.svg",
     "static/media/arrow_right.svg": "/Creativity-Center/static/media/arrow_right.8cdafc2006e3ee053b5c034f1a875432.svg",
     "static/media/arrow.svg": "/Creativity-Center/static/media/arrow.cb3c9223be00a1cf2359ff91e526760c.svg",
+    "static/media/cross_1.svg": "/Creativity-Center/static/media/cross_1.d8dadaa31f6c14e05e2d159f641d39ed.svg",
     "static/media/cross.svg": "/Creativity-Center/static/media/cross.61dca8af61ee28024ada356b88d949c8.svg",
+    "static/media/crossModal.svg": "/Creativity-Center/static/media/crossModal.70e89e06c2afc66c7cba55faed6b00f1.svg",
     "static/media/geo_1.svg": "/Creativity-Center/static/media/geo_1.d8a2930d2251bfa0eb5bfef8f3ac2c8d.svg",
     "static/media/geo_2.svg": "/Creativity-Center/static/media/geo_2.cb0ad77e1a87461e5ccec456650eeae4.svg",
     "static/media/n.svg": "/Creativity-Center/static/media/n.786fe7db993325f7cdbe123406fe9fe5.svg",
     "static/media/i.svg": "/Creativity-Center/static/media/i.d1309da67995690ed67c21ca19d794ba.svg",
     "static/media/g.svg": "/Creativity-Center/static/media/g.4da10c5a8b55ee94fdcef3b83ce2fb04.svg",
     "static/media/t.svg": "/Creativity-Center/static/media/t.da08a38d5ca4663da0014186d7b02aa8.svg",
-    "main.89aa6dc8.css.map": "/Creativity-Center/static/css/main.89aa6dc8.css.map",
-    "main.ba753ecc.js.map": "/Creativity-Center/static/js/main.ba753ecc.js.map"
+    "main.6ee45059.css.map": "/Creativity-Center/static/css/main.6ee45059.css.map",
+    "main.75bdbabd.js.map": "/Creativity-Center/static/js/main.75bdbabd.js.map"
   },
   "entrypoints": [
-    "static/css/main.89aa6dc8.css",
-    "static/js/main.ba753ecc.js"
+    "static/css/main.6ee45059.css",
+    "static/js/main.75bdbabd.js"
   ]
 }
