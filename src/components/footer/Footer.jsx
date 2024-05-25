@@ -229,27 +229,25 @@ const Footer = () => {
                   type="text"
                   placeholder="Ваш телефон или email"
                 />
-                <input
-                  className={css.formInputArea}
-                  type="textarea"
-                  placeholder="Ваше сообщение"
-                  rows="10"
-                  cols="45"
-                />
+                <form>
+                  <textarea
+                    className={css.formInputArea}
+                    type="textarea"
+                    placeholder="Ваше сообщение"
+                    rows="10"
+                    cols="45"
+                  />
+                </form>
               </form>
               <div className={css.checkbox}>
-                <input
-                  className={css.checkboxInput}
-                  type="checkbox"
-                  checked="checked"
-                />
-                <p
+                <label
                   className={
                     isHomePage ? css.checkboxText : css.checkboxTextLight
                   }
                 >
-                  Я согласен на обработку моих персональных данных
-                </p>
+                  <input className={css.checkboxInput} type="checkbox" />Я
+                  согласен на обработку моих персональных данных
+                </label>
               </div>
               <button className={css.btn} type="button">
                 Отправить

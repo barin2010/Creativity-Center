@@ -73,7 +73,8 @@
   --button-color-E7E7E7: #e7e7e7;
   --footer-color-010938: #010938;
   --input-background-E1E3E5: #e1e3e5;
-  --contacts-background-02061D: #02061D;
+  --contacts-background-02061D: #02061d;
+  --color-answer-24272A: #24272a;
 }
 
 body {
@@ -81,6 +82,7 @@ body {
   color: var(--primary-font-color-02061D);
   font-weight: 600;
   background-color: #efefef;
+  overflow-x: hidden;
 }
 .container {
   max-width: 1920px;

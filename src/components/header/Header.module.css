@@ -74,6 +74,7 @@
   height: 31px;
 }
 .navigation {
+  width: 100%;
   align-items: center;
   justify-content: center;
   background-color: var(--primary-font-color-02061D);

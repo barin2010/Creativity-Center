@@ -1,10 +1,12 @@
-import React from 'react';
+import React, { useState } from 'react';
 import css from './Vacancies.module.css';
 import Cc from '../../images/icons/Cc.svg';
 import admin from '../../images/icons/admin.svg';
 import phone from '../../images/icons/phone.svg';
+import Modal from 'components/modal/Modal';
 
 const Vacancies = () => {
+  const [open, setOpen] = useState(false);
   return (
     <section className={css.vacansies}>
       <div className="container">
@@ -26,7 +28,10 @@ const Vacancies = () => {
           </ul>
 
           <div className={css.vacansiesTel}>
-            <button className={css.vacansiesBtn}>Заказать звонок</button>
+            {open && <Modal open={open} setOpen={setOpen} />}
+            <button onClick={() => setOpen(true)} className={css.vacansiesBtn}>
+              Заказать звонок
+            </button>
             <img className={css.vacansiesPhone} src={phone} alt="phone" />
             <a href="tel:+7(499) 229 99 55" className={css.vacansiesNumber}>
               +7(499) 229 99 55

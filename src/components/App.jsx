@@ -15,6 +15,7 @@ export const App = () => {
     <div>
       <BrowserRouter basename="/Creativity-Center">
         <Header />
+
         <Routes>
           <Route path="/" element={<Home />}></Route>
           <Route path="/contacts" element={<Contacts />}></Route>

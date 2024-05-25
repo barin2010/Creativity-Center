@@ -1,0 +1,82 @@
+.modalBackground {
+  display: flex;
+  background-color: rgba(2, 6, 29, 0.4);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+}
+
+.modalActive {
+  width: 912px;
+  height: 394px;
+  background-color: var(--primary-white-FFFFFF);
+  padding: 55px 0 71px 104px;
+  border-radius: 30px;
+  position: relative;
+  z-index: 5000;
+}
+.modalTitle {
+  font-size: 30px;
+  color: #000;
+  text-transform: uppercase;
+  margin-bottom: 27px;
+}
+.input {
+  width: 600px;
+  padding: 21px 35px;
+  background-color: var(--input-background-E1E3E5);
+  border-radius: 5px;
+  align-items: center;
+  margin-bottom: 13px;
+  border: none;
+}
+
+.btnBox {
+  margin-top: 7px;
+  display: flex;
+  align-items: center;
+}
+.btn {
+  width: 183px;
+  padding: 16.5px 50.5px;
+  border-radius: 10px;
+  background-color: var(--button-color-0082FE);
+  color: var(--primary-white-FFFFFF);
+  font-size: 16px;
+  margin-right: 24px;
+}
+.checkbox {
+  width: 19px;
+  height: 19px;
+  color: var(--input-background-E1E3E5);
+  border-radius: 5px;
+  margin-right: 13px;
+  top: 0;
+  left: 0;
+}
+
+.input ::placeholder {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.label {
+  font-size: 10px;
+  font-weight: 500;
+  color: #000;
+  display: flex;
+  align-items: center;
+}
+.modalCross {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 28px;
+  right: 27px;
+}

@@ -1,5 +1,7 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
+
+import Modal from 'components/modal/Modal';
 import css from './Header.module.css';
 import tcentr from '../../images/icons/tcentr.svg';
 import c_1 from '../../images/icons/c_1.svg';
@@ -14,9 +16,12 @@ import o_2 from '../../images/icons/0_2.svg';
 import geo_1 from '../../images/icons/geo_1.svg';
 import geo_2 from '../../images/icons/geo_2.svg';
 import tel from '../../images/icons/tel.svg';
+
 const Header = () => {
+  const [open, setOpen] = useState(false);
   return (
     <header className={css.header}>
+      {open && <Modal open={open} setOpen={setOpen} />}
       <div className={css.headerWrappper}>
         <div className={css.box_1}>
           <div className={css.letters}>
@@ -85,7 +90,10 @@ const Header = () => {
               </a>
             </div>
           </div>
-          <button className={css.btn}>Заказать звонок</button>
+
+          <button onClick={() => setOpen(true)} className={css.btn}>
+            Заказать звонок
+          </button>
         </div>
         <nav className={css.navigation}>
           <ul className={css.navigationList}>
